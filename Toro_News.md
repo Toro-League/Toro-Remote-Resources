@@ -1,10 +1,10 @@
 |||
-(6/29/26)
+(7/15/26)
 |||
 
 Welcome to the soft launch!
-- We're not transferring pix / currencies from 1.12.2 for at least a month to monitor a "fresh" economy
+- We're not transferring money from 1.12.2 until 8/3 at the earliest to monitor a "fresh" economy (money-making methods, prices)
 - Items transfers will be gradual, not immediate
-### Event Schedule:
-- **7/3/26** - 1.21.1 Soft Launch
-- **?/?/26** - Full Launch
+- Report bugs in the #v2-bug-reports channel!
+### Schedule:
+- **7/15/26** - Maintenance (start: 11pm EST, duration: 2-3 hours)
