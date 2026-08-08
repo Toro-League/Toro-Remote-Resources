@@ -1,10 +1,11 @@
 |||
-(7/15/26)
+(8/7/26)
 |||
 
 Welcome to the soft launch!
-- We're not transferring money from 1.12.2 until 8/3 at the earliest to monitor a "fresh" economy (money-making methods, prices)
-- Items transfers will be gradual, not immediate
+- Utility Teleportation Subsystem has launched!
+- Items transfers will be gradual, not immediate. Money will be transferred later.
 - Report bugs in the #v2-bug-reports channel!
 ### Schedule:
-- **7/15/26** - Maintenance (start: 11pm EST, duration: 2-3 hours)
+- **8/8/26** - That Time Aurelia got Deforested (start: 5pm EST)
+-  **8/22/26** - Festival of Lights Opening! (duration: two weeks)
